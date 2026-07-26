@@ -1,3 +1,8 @@
-print("So rojo server is working properly")  -- So this is first print statement is used to check whether the link between vs code and roblox studio is formed or not.
--- As we can see if we type the command "rojo serve" in git bash and connect it with rojo plugin in roblox studio the code is syncing properly.
--- that means configuration of rojo and VS code is been formed succesfully.
+-- lets do some Oops programming to learn how to change properties and appearance of objects in the game
+local Baseplate = game.workspace.Baseplate --created a new variable to make the code shorter
+
+Baseplate.Transparency = 0.2
+-- changing the transparency [property] of the base plate 
+
+Baseplate.Material = "Snow"
+-- chanhing material appearance of the baseplate

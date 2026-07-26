@@ -1,26 +1,22 @@
 {
-    "name": "Roblox-Obby",
-    "tree": {
-        "$className": "DataModel",
+  "name": "Roblox-Obby",
+  "tree": {
+    "$className": "DataModel",
 
-        "ReplicatedStorage": {
-            "$path": "src/ReplicatedStorage"
-        },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
 
-        "ServerScriptService": {
-            "$path": "src/ServerScriptService"
-        },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
 
-        "StarterGui": {
-            "$path": "src/StarterGui"
-        },
+    "StarterPlayer": {
+      "$path": "src/StarterPlayer"
+    },
 
-        "StarterPlayer": {
-            "$path": "src/StarterPlayer"
-        },
-
-        "Workspace": {
-            "$path": "src/Workspace"
-        }
+    "StarterGui": {
+      "$path": "src/StarterGui"
     }
+  }
 }
